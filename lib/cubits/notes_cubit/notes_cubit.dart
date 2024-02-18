@@ -4,6 +4,8 @@ import 'package:meta/meta.dart';
 import 'package:note/constants.dart';
 import 'package:note/cubits/add_note_cubit/add_note_cubit.dart';
 import 'package:note/models/note_model.dart';
+import 'package:flutter/material.dart';
+import 'package:hive_flutter/adapters.dart';
 
 part 'notes_state.dart';
 
